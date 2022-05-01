@@ -42,12 +42,11 @@ function draw() {
 
 if (keyDown("right_arrow")) {
   jaxon.x = 370;
-  path.velocityY = 4;
-}
+  
 
 if (keyDown("left_arrow")){
   jaxon.x=100;
-  path.velocityY = 4;
+  
 
   
 }
